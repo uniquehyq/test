@@ -2,7 +2,7 @@ let a = "hello";
 let aaa = "hhh";
 let aaaa = "hhhh"
 let b = "3"
-let name = "main1"
+let name = "demo"
 function name(params) {
     console.log("123");
 }
